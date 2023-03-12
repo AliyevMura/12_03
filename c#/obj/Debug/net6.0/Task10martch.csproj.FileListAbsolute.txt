@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\bin\Debug\net6.0\Task10martch.exe
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\bin\Debug\net6.0\Task10martch.deps.json
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\bin\Debug\net6.0\Task10martch.runtimeconfig.json
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\bin\Debug\net6.0\Task10martch.dll
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\bin\Debug\net6.0\Task10martch.pdb
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\Task10martch.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\Task10martch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\Task10martch.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\Task10martch.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\Task10martch.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\Task10martch.dll
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\refint\Task10martch.dll
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\Task10martch.pdb
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\Task10martch.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Task10martch\Task10martch\obj\Debug\net6.0\ref\Task10martch.dll
